@@ -1,2 +1,2 @@
 # SW
-과제
+### top, ps, jobs, kill
